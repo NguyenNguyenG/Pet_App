@@ -6,6 +6,9 @@ I got the skeleton of the project from a Udacity course in the Android Basics
 Nanodegree by Google. Then, I took the course and wrote most of the code 
 by myself.
 
+This is the link to the github repo that provides the skeleton for the PetApp:
+https://github.com/udacity/ud845-Pets/tree/starting-point
+
 Pre-requisites
 --------------
 
